@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "976436554315",
+    "firebase_url": "https://whattowear-9ff34.firebaseio.com",
+    "project_id": "whattowear-9ff34",
+    "storage_bucket": "whattowear-9ff34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976436554315:android:274353f6a0b4a18f",
+        "android_client_info": {
+          "package_name": "com.dominationtech.whattowear"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976436554315-bdjiog7pggbu4b2bre71t63s51ke6a16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCagjKlsnkF40kIcafEJnZktcIn0i-7UG0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
